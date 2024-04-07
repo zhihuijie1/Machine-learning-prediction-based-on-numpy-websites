@@ -45,3 +45,6 @@ plt.ylabel('Count')
 plt.title('Distribution of Change Categories')
 plt.xticks(rotation=45)
 plt.show()
+
+
+
